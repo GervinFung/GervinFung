@@ -1,6 +1,6 @@
 <h3>👋 Bonjour!</h3>
 
-My name is Gervin. i am the thing that keeps the bugs up at night:
+My name is Gervin. i am the thing that keeps the bugs up at night
 
 <h3>🛠️ My tech stack</h3>
 
