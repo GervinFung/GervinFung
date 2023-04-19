@@ -105,7 +105,7 @@ My name is Gervin. i am the thing that keeps the bugs up at night:
                     src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
                 />
                 <img
-                    src="https://img.shields.io/static/v1?label=&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF&style=flat-square"
+                    src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"
                 />
             </td>
         </tr>
