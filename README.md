@@ -1,8 +1,8 @@
 <h3>👋 Bonjour!</h3>
 
-My name is <strong>Gervin</strong>, I am a Man of <em>Focus</em>, <em>Commitment</em> and <em>Sheer Will</em>
+My name is Gervin, I am a Man of <em>Focus</em>, <em>Commitment</em> and <em>Sheer Will</em>
 
-Confucius: <em>I once saw him kill three bugs in a room... with a <strong>keystroke</strong></em>
+I like to build things whenever I want to (implies for personal projects only)
 
 <h3>🛠️ My tech stack</h3>
 
@@ -68,6 +68,9 @@ Confucius: <em>I once saw him kill three bugs in a room... with a <strong>keystr
                 />
                 <img
                     src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+                />
+                <img
+                    src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"
                 />
             </td>
         </tr>
