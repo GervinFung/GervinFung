@@ -1,10 +1,10 @@
 <h3>👋 Bonjour!</h3>
 
-My name is Gervin, I am a Man of <em>Focus</em>, <em>Commitment</em> and <em>Sheer Will</em>
+My name is Gervin, I am a software engineer
 
 I like to build things whenever I want to (implies for personal projects only)
 
-<h3>🛠️ My tech stack</h3>
+<h3>My skills</h3>
 
 <!-- ref: https://github.com/Ileriayo/markdown-badges#-frameworks-platforms-and-libraries -->
 
@@ -20,9 +20,6 @@ I like to build things whenever I want to (implies for personal projects only)
                     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
                 />
                 <img
-                    src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"
-                />
-                <img
                     src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
                 />
                 <img
@@ -30,12 +27,6 @@ I like to build things whenever I want to (implies for personal projects only)
                 />
                 <img
                     src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
                 />
             </td>
         </tr>
@@ -49,25 +40,10 @@ I like to build things whenever I want to (implies for personal projects only)
                     src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
                 />
                 <img
-                    src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb"
-                />
-                <img
-                    src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08"
-                />
-                <img
-                    src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"
-                />
-                <img
                     src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"
                 />
                 <img
                     src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
                 />
                 <img
                     src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"
@@ -89,15 +65,6 @@ I like to build things whenever I want to (implies for personal projects only)
                 <image
                     src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
                 />
-                <image
-                    src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
-                />
-                <image
-                    src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-                />
-                <image
-                    src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
-                />
             </td>
         </tr>
         <tr>
@@ -106,50 +73,18 @@ I like to build things whenever I want to (implies for personal projects only)
                 <img
                     src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
                 />
-                <img
-                    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"
-                />
-            </td>
-        </tr>
-        <tr>
-            <td><b>IDE/Editor</b></td>
-            <td>
-                <img
-                    src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"
-                />
-                <img
-                    src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"
-                />
-            </td>
-        </tr>
-        <tr>
-            <td><b>DevOps</b></td>
-            <td>
-                <img
-                    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-                />
-                <img
-                    src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
-                />
             </td>
         </tr>
     </tbody>
 </table>
+
+Those skills looks very boring and common, because languages with similar syntax isn't listed!
+
+For languages, JVM-based languages like Groovy shared a very similar syntax with Java.
+In fact, most OOP langauges do share a very similar syntax and code style, it's exhaustive to list all of it and I do not need to know all OOP languages to use it well
+
+For frameworks, any kind of framework that are built with `tsx` should not be a problem for me to learn quickly.
+I had a taste on frameworks like Svelte, Vue and Astro, and to me all frameworks have more similarities than differences, it's not a problem for me to learn if I have to use Angular or any other frameworks that I had not use before
+
+All in all, I'd say it won't take me too long to learn a language/framework,
+I should be able to learn a new language/framework within 2 weeks, 1 week if I am familiar with its concept and syntax
